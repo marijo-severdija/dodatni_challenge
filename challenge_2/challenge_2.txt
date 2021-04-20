@@ -1,0 +1,17 @@
+Challenge 1.2: Parse the weather data
+Go to the data folder and download the weather.json file.
+
+Create a computer program that would read this file and print out the following:
+
+City name
+Country code
+Current temperature
+Weather description
+Bonus challenge:
+
+Find values for sunrise and sunset.
+This is a timestamp for at which time the sun goes up and at which time goes down (for that specific day).
+
+Convert the timestamps into an actual date and time (day, month, year, hour, minutes).
+
+Hint: you will need to use the datetime library for this.

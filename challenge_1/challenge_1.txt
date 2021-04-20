@@ -1,0 +1,15 @@
+Challenge 1.1: Parse the list of users
+Basic challenge
+In the data folder, you can find a file called users.json. This file includes (fake) data about 10 people.
+
+Create a Python program that would read the contents of this file and do the following:
+
+Separate/split the name into first_name and last_name
+For each person print out the following things (in this order):
+Last name
+First name
+Latitude of the city the person lives in (geo/lat)
+The catch phrase of the company that this person works for
+Bonus challenge
+Create a program that will ask the user to enter some last name (for example "Graham").
+If a person with this last name is in users.json, then print that person's name, email and company name.

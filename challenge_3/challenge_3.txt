@@ -1,0 +1,12 @@
+Challenge 1.3: Blackjack
+Have you ever played Blackjack? If not, try it out, there are plenty of online games out there.
+The rules are very simple. :)
+
+Write a Blackjack Python script where you can play against the computer.
+
+Bonus: Set two levels for computer, aggressive and conservative.
+
+One option is that the player chooses the level for the computer before the game starts.
+
+Another option is that the level is set automatically, either before the game or even during the game
+(the computer could randomly switch from being aggressive to being conservative).
